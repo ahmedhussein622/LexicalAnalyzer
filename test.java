@@ -1,0 +1,1 @@
+int sum,count,pass,mnt;while(pass != 10){pass=pass+1;}for(int i = 0; i < 5; i++){System.out.println("hellowolrd");}

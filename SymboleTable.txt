@@ -1,0 +1,10 @@
+sum
+count
+pass
+mnt
+for
+i
+System
+out
+println
+hellowolrd
